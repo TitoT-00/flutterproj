@@ -14,7 +14,7 @@ Here are some screenshots:
 
 -Signup -----------------------------------------------------------------------------------
 
-<img width="257" alt="SignUp1" scr="https://github.com/user-attachments/assets/fbb178ad-0979-4b5c-a29f-6f129724ef32">
+<img width="257" alt="SignUp" scr="https://github.com/user-attachments/assets/fbb178ad-0979-4b5c-a29f-6f129724ef32">
 
 <img width="257" alt="SignUp2" scr="https://github.com/user-attachments/assets/c4c3c427-c8eb-4d55-aaca-4d173b8575cd">
 
