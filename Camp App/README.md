@@ -13,9 +13,10 @@ Here are some screenshots:
 
 -Signup -----------------------------------------------------------------------------------
 
-<img width="257" alt="SignUp" scr="https://github.com/user-attachments/assets/84782bee-ba14-4bef-986a-e64c8b01ad51">
 
-<img width="257" alt="SignUp2" scr="https://github.com/user-attachments/assets/49a2dd25-09f3-4ea9-9ea7-74932e06be7f">
+![Signup_1](https://github.com/user-attachments/assets/bcd9435c-afc3-40a6-8f34-eb6651557a11)
+
+![SignUp_2](https://github.com/user-attachments/assets/fb4689e2-cad4-4409-b50f-dfae944efd8e)
 
 
 -Dashboard ----------------------------------------------------------------------------------
