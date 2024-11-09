@@ -20,28 +20,35 @@ Here are some screenshots:
 
 
 -CheckList
+
 <img width="257" alt="CheckList" src="https://github.com/user-attachments/assets/56c5c6b5-61a5-4483-ab82-62b81e621631">
 
 
 -Attendance
+
 <img width="257" alt="Attendance" src="https://github.com/user-attachments/assets/a3b12601-929c-451c-8937-3d76f37d3f18">
 
 
 -Registration
+
 <img width="257" alt="Registration" src="https://github.com/user-attachments/assets/45859b68-a7fc-4cd4-a57e-48cf0d7fed6e">
 
 -Schedule
 
 (Monthly View)
+
 <img width="257" alt="Schedule_Month_view" src="https://github.com/user-attachments/assets/ce2cba69-b194-4607-a6d3-659c2372baf7">
 
 (Daily Activities)
+
 <img width="257" alt="Schedule_Daily_activies" src="https://github.com/user-attachments/assets/a0940891-5d45-42b0-a371-4911291873d8">
 
 (Edit Activities)
+
 <img width="257" alt="edit_activities" src="https://github.com/user-attachments/assets/4217651f-d03a-442b-962f-3e5fe1e1962c">
 
 (Print Schedule)
+
 <img width="257" alt="edit_activities" src="https://github.com/user-attachments/assets/c28a730d-c7a1-4ed6-a467-19c26b74174c">
 
 
