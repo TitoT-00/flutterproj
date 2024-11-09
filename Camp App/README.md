@@ -9,6 +9,9 @@ Here are some screenshots:
 
 <img width="257" alt="Login" src="https://github.com/user-attachments/assets/c6942475-5a7f-466d-a5f8-94e9807f33f6">
 
+![Signup_1](https://github.com/user-attachments/assets/fbb178ad-0979-4b5c-a29f-6f129724ef32)
+
+
 
 -Signup -----------------------------------------------------------------------------------
 
