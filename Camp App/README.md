@@ -12,9 +12,10 @@ Here are some screenshots:
 
 -Signup -----------------------------------------------------------------------------------
 
-<img width="257" alt="SignUp1" scr="https://github.com/user-attachments/assets/933d5e56-a3b3-4492-b4f7-59ba311d6ac3">
+<img width="257" alt="SignUp1" scr="https://github.com/user-attachments/assets/45dcb5d7-16e4-4d47-8178-430cd9094fb7">
 
-<img width="257" alt="SignUp2" scr="https://github.com/user-attachments/assets/adeb97ba-ef45-4d36-ba5f-dfcc8518cf5f">
+<img width="257" alt="SignUp2" scr="https://github.com/user-attachments/assets/c4c3c427-c8eb-4d55-aaca-4d173b8575cd">
+
 
 
 -Dashboard ----------------------------------------------------------------------------------
@@ -58,12 +59,15 @@ Here are some screenshots:
 -Order -----------------------------------------------------------------------------------
 
 (New Order)
+
 <img width="257" alt="New_Order" src="https://github.com/user-attachments/assets/be508ffc-85b4-403a-bab5-e81874b6ca45">
 
 (Items to Order)
+
 <img width="257" alt="Items_to_order" src="https://github.com/user-attachments/assets/2156c2bb-2833-4a78-ba0f-10775e15cf02">
 
 (Order History)
+
 <img width="257" alt="Order_History" src="https://github.com/user-attachments/assets/777b8f07-41da-4486-bbbf-0e7f580601ca">
 
 
