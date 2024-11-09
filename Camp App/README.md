@@ -9,13 +9,12 @@ Here are some screenshots:
 
 <img width="257" alt="Login" src="https://github.com/user-attachments/assets/c6942475-5a7f-466d-a5f8-94e9807f33f6">
 
-![Signup_1](https://github.com/user-attachments/assets/fbb178ad-0979-4b5c-a29f-6f129724ef32)
 
 
 
 -Signup -----------------------------------------------------------------------------------
 
-<img width="257" alt="SignUp1" scr="https://github.com/user-attachments/assets/45dcb5d7-16e4-4d47-8178-430cd9094fb7">
+<img width="257" alt="SignUp1" scr="https://github.com/user-attachments/assets/fbb178ad-0979-4b5c-a29f-6f129724ef32">
 
 <img width="257" alt="SignUp2" scr="https://github.com/user-attachments/assets/c4c3c427-c8eb-4d55-aaca-4d173b8575cd">
 
