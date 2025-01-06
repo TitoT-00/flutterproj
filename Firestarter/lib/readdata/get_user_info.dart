@@ -28,7 +28,6 @@ class getUserInfo extends StatelessWidget{
         if(snapshot.connectionState == ConnectionState.done)  {
           Map<String, dynamic> data =
           snapshot.data!.data() as Map<String,dynamic>;
-          addMae
           return Text('Welcome: ${data['display name']}');
         }
         return Text('loading...');
