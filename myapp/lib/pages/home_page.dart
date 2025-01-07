@@ -86,10 +86,10 @@ class _HomePageState extends State<HomePage>{
     return Scaffold(
       backgroundColor: Colors.yellow[200],
       appBar: AppBar(
-        title: Text('TO DO',
+        title: const Text('TO DO',
                   style: TextStyle(color: Colors.black,),),
         leading: IconButton(
-          icon: Icon(
+          icon: const Icon(
               Icons.add,
           color: Colors.black),
           onPressed: createNewTask,

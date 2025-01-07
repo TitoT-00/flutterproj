@@ -2,17 +2,20 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import '../inside/event.dart';
+
 class getUserInfo extends StatelessWidget{
   final String documentId;
 
   getUserInfo({required this.documentId});
 
   Future<String> getCurrentUID() async{
-    return (await.firebaseAuth.currentUser()).uid;
+    FirebaseAuth _firebaseAuth = FirebaseAuth.instance;
+    return (await _firebaseAuth.currentUser!).uid;
   }
 
   Future getCurrentUser() async {
-    return await _firebaseAuth.currentUser();
+    FirebaseAuth _firebaseAuth = FirebaseAuth.instance;
+    return await _firebaseAuth.currentUser!;
   }
 
 
@@ -28,7 +31,7 @@ class getUserInfo extends StatelessWidget{
         if(snapshot.connectionState == ConnectionState.done)  {
           Map<String, dynamic> data =
           snapshot.data!.data() as Map<String,dynamic>;
-          addMae
+
           return Text('Welcome: ${data['display name']}');
         }
         return Text('loading...');

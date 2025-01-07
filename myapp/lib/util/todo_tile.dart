@@ -22,7 +22,7 @@ import 'package:flutter_slidable/flutter_slidable.dart';
           padding: const EdgeInsets.only(left: 25.0, right: 25, top: 25),
            child: Slidable(
            endActionPane: ActionPane(
-           motion: StretchMotion(),
+           motion: const StretchMotion(),
            children: [
              SlidableAction(
                  onPressed: deleteFunction,
@@ -35,7 +35,10 @@ import 'package:flutter_slidable/flutter_slidable.dart';
            ),
 
             child: Container(
-                padding: EdgeInsets.all(24),
+                padding: const EdgeInsets.all(24),
+                decoration: BoxDecoration(color:Colors.yellow,
+                borderRadius: BorderRadius.circular(12)
+          ),
                 child: Row(
                   children: [
                     //Checkbox
@@ -56,9 +59,6 @@ import 'package:flutter_slidable/flutter_slidable.dart';
                     ),
                   ],
                 ),
-                decoration: BoxDecoration(color:Colors.yellow,
-                borderRadius: BorderRadius.circular(12)
-          ),
         ),
            ),
         );
