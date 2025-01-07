@@ -5,4 +5,4 @@ created by: Tito Thomas
 
 2) myapp: An application that I am currently developing to cater for my personal day-to-day task. This will incorpate multiple stages: note-taking, daily habits, fitness calendar, and calorite intake tracker. For now the note-taking stage is completed and the others are a work in-progress.
 
-3) lab_1: This application was catered to my first lab/ first encounter with flutter. It was suppose to be a random word generator but I changed it to a drink generator that takes a list of non-alcoholic drinks and alcoholic drinks and mixes them to generate unusal drinks that might be tasty. 
+3) Camp App: This application is a way camp organizers and counselors could organize their camps digitally. In this app, we could set up divisions, bunks, campers, daily/monthly schedules, budgets and cost of different supplies. Take attendance of all campers. Report which supplies are running out and notify the camp organizers.
